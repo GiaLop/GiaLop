@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Giovanni Lo Presti
 
-**Junior Data Analyst** con background unico: 20 anni come Executive Chef, 
+**Junior Data Analyst** laureato in Econmia con background unico: 20 anni di esperinza nel settore HO.RE.CA, 
 ora specializzato in analytics per il settore hospitality.
 
 ## Quello che faccio
