@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Ciao, sono Giovanni Lo Presti
+
+**Junior Data Analyst** con background unico: 20 anni come Executive Chef, 
+ora specializzato in analytics per il settore hospitality.
+
+## Quello che faccio
+Trasformo dati operativi in decisioni che generano profitto misurabile.
+
+## Progetto Portfolio
+📊 [Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics) 
+- €44k risparmi identificati
+- Python, Pandas, data visualization
+
+## 🛠️ Tech Stack
+Python • SQL • Tableau • Power BI
+
+## 📍 Como/Milano, Italy
+🔗 [LinkedIn](https://www.linkedin.com/in/giovanni-lo-presti-b15b7761/)
+
+*Da chef a data analyst - bringing operational expertise to analytics*
 
 <!--
 **GiaLop/GiaLop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
