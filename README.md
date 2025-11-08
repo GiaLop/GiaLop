@@ -11,10 +11,10 @@ Trasformo dati operativi in decisioni che generano profitto misurabile.
 - €44k risparmi identificati
 - Python, Pandas, data visualization
 
-## 🛠️ Tech Stack
+## Tech Stack
 Python • SQL • Tableau • Power BI
 
-## 📍 Como/Milano, Italy
+## Como/Milano, Italy
 🔗 [LinkedIn](https://www.linkedin.com/in/giovanni-lo-presti-b15b7761/)
 
 *Da chef a data analyst - bringing operational expertise to analytics*
