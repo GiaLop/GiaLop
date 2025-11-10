@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Giovanni Lo Presti
 
-**Junior Data Analyst** laureato in Econmia con background unico: 20 anni di esperinza nel settore HO.RE.CA, 
+**Junior Data Analyst** laureato in Econmia con background unico: quasi 20 anni di esperinza nel settore HO.RE.CA, 
 ora specializzato in analytics per il settore hospitality.
 
 ## Quello che faccio
