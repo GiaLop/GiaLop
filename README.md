@@ -16,12 +16,11 @@ Trasformo dati operativi in decisioni che generano profitto misurabile.
 
 ---
 
-## Restaurant Analytics
+### [Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics)
 
 - €44k risparmi identificati
 - Python, Pandas, data visualization
 
-(https://github.com/GiaLop/dummy-restaurant-analytics)
 
 ## Tech Stack
 Python • SQL • Tableau • Power BI
