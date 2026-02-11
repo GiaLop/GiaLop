@@ -7,7 +7,7 @@ ora specializzato in analytics per il settore hospitality.
 Trasformo dati operativi in decisioni che generano profitto misurabile.
 
 ## Progetto Portfolio
-📊 [Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics) 
+[Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics) 
 - €44k risparmi identificati
 - Python, Pandas, data visualization
 
