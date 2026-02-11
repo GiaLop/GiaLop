@@ -8,14 +8,13 @@ Trasformo dati operativi in decisioni che generano profitto misurabile.
 
 ## Progetti Portfolio
 
-### [Complete Restaurant Analytics](https://github.com/GiaLop/Complete-Dummy-Restaurant-Analytics-) (https://github.com/GiaLop/Complete-Dummy-Restaurant-Analytics-)
-Usando tabelle sintetiche ho eseguito un'analisi approfondita divisa in 4 notebooks:
+### [Complete Restaurant Analytics](https://github.com/GiaLop/Complete-Dummy-Restaurant-Analytics-) 
 - **Profitability Analysis**: Analisi dei margini e redditività
 - **Operations**: Ottimizzazione operativa
 - **Time Analysis**: Analisi temporale delle performance
 - **Cross-selling**: Studio delle correlazioni tra prodotti
 
-[Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics) 
+### [Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics) 
 - €44k risparmi identificati
 - Python, Pandas, data visualization
 
