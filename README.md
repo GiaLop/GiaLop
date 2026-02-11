@@ -14,9 +14,14 @@ Trasformo dati operativi in decisioni che generano profitto misurabile.
 - **Time Analysis**: Analisi temporale delle performance
 - **Cross-selling**: Studio delle correlazioni tra prodotti
 
-### [Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics) 
+---
+
+## Restaurant Analytics
+
 - €44k risparmi identificati
 - Python, Pandas, data visualization
+
+(https://github.com/GiaLop/dummy-restaurant-analytics)
 
 ## Tech Stack
 Python • SQL • Tableau • Power BI
