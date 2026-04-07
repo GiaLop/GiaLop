@@ -13,7 +13,7 @@ End-to-end data cleaning pipeline per il controllo di gestione nella ristorazion
 
 **Tech:** Python · pandas · fuzzy matching · Jupyter
 
-**Key results:** FC% 19.9% · EBITDA leak quantificato per ingrediente · WAP su dati fatture reali
+**Key results:** •FC% 19.9% · •EBITDA leak quantificato per ingrediente · •WAP su dati fatture reali
 
 [Vedi il progetto →](https://github.com/GiaLop/restaurant-cleaning-pipeline-business-stats)
 
