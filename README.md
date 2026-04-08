@@ -1,10 +1,12 @@
 # Ciao, sono Giovanni Lo Presti
 
-**Data Analyst** laureato in Econmia con background unico: 15 anni di esperinza nel settore HO.RE.CA, 
+**Food Data Analyst** laureato in Econmia con background unico: 15 anni di esperinza nel settore HO.RE.CA, 
 ora specializzato in analytics per il settore hospitality.
 
 ## Quello che faccio
-Trasformo dati operativi in decisioni che generano profitto misurabile.
+Aiuto le aziende nel **controllo gestione Data-Driven** per il Food & Beverage |
+Food Cost dinamico e Menu Engineering automatizzato | 
+Unisco l’esperienza operativa alla potenza di Python e Tableau.
 
 ## Progetti Portfolio
 
