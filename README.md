@@ -26,14 +26,13 @@ Un sistema di analisi predittiva per la ristorazione che risponde a due domande:
 | MAPE CV | 15.44% |
 
 
-### EBITDA Leak Analysis — HoReCa Pipeline
+### [EBITDA Leak Analysis — HoReCa Pipeline](https://github.com/GiaLop/restaurant-cleaning-pipeline-business-stats)
+
 • End-to-end data cleaning pipeline per il controllo di gestione nella ristorazione.
 
 • **Tech:** Python · pandas · fuzzy matching · Jupyter
 
 • **Key results:** FC% 19.9% · EBITDA leak quantificato per ingrediente · WAP su dati fatture reali
-
-[Vedi il progetto →](https://github.com/GiaLop/restaurant-cleaning-pipeline-business-stats)
 
 ---
 
