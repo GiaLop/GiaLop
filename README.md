@@ -10,6 +10,22 @@ Unisco l’esperienza operativa alla potenza di Python e Tableau.
 
 ## Progetti Portfolio
 
+### [Demand Forecasting Ristorante Como](https://github.com/GiaLop/horeca-forecasting)
+Un sistema di analisi predittiva per la ristorazione che risponde a due domande:
+
+1. **Quanti coperti faremo domani?** — Pipeline A: Demand Forecasting
+2. **Quanto ci costerà uno shock energetico?** — Pipeline B: Energy Pass-Through Analysis - in fase di sviluppo
+
+**Risultati:**
+
+| Metrica | Valore |
+|---------|--------|
+| RMSE single-split | 19.97 coperti |
+| MAPE single-split | 19.18% |
+| RMSE CV (4 fold) | 16.70 coperti |
+| MAPE CV | 15.44% |
+
+
 ### EBITDA Leak Analysis — HoReCa Pipeline
 • End-to-end data cleaning pipeline per il controllo di gestione nella ristorazione.
 
@@ -28,12 +44,6 @@ Unisco l’esperienza operativa alla potenza di Python e Tableau.
 - **Cross-selling**: Studio delle correlazioni tra prodotti
 
 ---
-
-### [Restaurant Analytics](https://github.com/GiaLop/dummy-restaurant-analytics)
-
-- €44k risparmi identificati
-- Python, Pandas, data visualization
-
 
 ## Tech Stack
 Python • SQL • Tableau • Power BI
