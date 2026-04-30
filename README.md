@@ -50,7 +50,7 @@ Python • SQL • Tableau • Power BI
 ## Como/Milano, Italy
 🔗 [LinkedIn](https://www.linkedin.com/in/giovanni-lo-presti-b15b7761/)
 
-*Da chef a data analyst - bringing operational expertise to analytics*
+*Da Chef a Food Data Analyst - bringing operational expertise to analytics*
 
 <!--
 **GiaLop/GiaLop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
